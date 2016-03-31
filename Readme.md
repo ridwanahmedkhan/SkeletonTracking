@@ -1,0 +1,1 @@
+This is a demo project to write down co ordinate data from Kinect Skeleton Data Stream. The base code of this project is written from the tutorial on Kinect in Channel9.
